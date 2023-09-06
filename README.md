@@ -8,7 +8,7 @@ Xdebug Wizard URL: https://xdebug.org/wizard
 
 ```
 xdebug.mode=debug
-xdebug.start_with_request=yes
+xdebug.start_with_request=trigger
 xdebug.client_port=9003
 xdebug.client_host = localhost
 zend_extension="C:\xampp\php\ext\xdebug.dll"
