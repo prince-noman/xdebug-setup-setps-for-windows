@@ -1,5 +1,7 @@
 ### Xdebug Setup Steps:
 
+Xdebug Wizard URL: https://xdebug.org/wizard
+
 1. Download xdebug file -> cut -> paste to xampp->php->ext
 
 2. Copy the below code and paste under your php.ini file
