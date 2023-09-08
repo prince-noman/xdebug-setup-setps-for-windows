@@ -27,9 +27,16 @@ zend_extension="C:\xampp\php\ext\xdebug.dll"
 > You installed PHP IntelliSense extension, and this error because of it.
 > <br> So if you want to fix this problem go to this menu:
 > <br> File -> Preferences -> Settings
-> <br> Then go here to find Settings.json file:
+> <br> Then go here to find Settings.json file and paste the below code like the image:
 
 (https://ibb.co/XYBHzN7)
+
+> Your XAMPP Folder must be in C Drive's root directory.
+
+```
+"php.debug.executablePath": "C:\\xampp\\php\\php.exe",
+"php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+```
 
 #### Add this code to your VS Code's settings.json File's bottom like this.
 
