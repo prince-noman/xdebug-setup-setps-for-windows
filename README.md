@@ -25,9 +25,9 @@ zend_extension="C:\xampp\php\ext\xdebug.dll"
 > [ PHP executable not found. Install PHP and add it to your PATH or set the php.executablePath setting ]
 
 > You installed PHP IntelliSense extension, and this error because of it.
-> So if you want to fix this problem go to this menu:
-> File -> Preferences -> Settings
-> Then go here to find Settings.json file:
+> <br> So if you want to fix this problem go to this menu:
+> <br> File -> Preferences -> Settings
+> <br> Then go here to find Settings.json file:
 
 (https://ibb.co/XYBHzN7)
 
