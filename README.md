@@ -22,6 +22,20 @@ zend_extension="C:\xampp\php\ext\xdebug.dll"
 [Edited]
 
 > Error solved:
+> [ PHP executable not found. Install PHP and add it to your PATH or set the php.executablePath setting ]
+
+> You installed PHP IntelliSense extension, and this error because of it.
+> So if you want to fix this problem go to this menu:
+> File -> Preferences -> Settings
+> Then go here to find Settings.json file:
+
+(https://ibb.co/XYBHzN7)
+
+#### Add this code to your VS Code's settings.json File's bottom like this.
+
+(https://ibb.co/HC9CSvx)
+
+> Error solved:
 > [Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).]
 
 আরও একটি Error এর সমাধান এ্যাড করে দিলাম রিসোর্স ফাইলে। আপনারা কাইন্ডলি আমার দেয়া এই রিসোর্স থেকে php(.ini) ফাইলের জন্য যেই কোড দিয়েছি, সেটা কপি করে আনার পর, (.dll) ফাইলের পাথ ভিডিওতে যেভাবে দেখানো হয়েছে , সেই ভাবেই পাথ কপি করে এনে php(.ini) ফাইলে পেস্ট করবেন।
