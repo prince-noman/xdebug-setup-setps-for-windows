@@ -43,6 +43,11 @@ zend_extension="C:\xampp\php\ext\xdebug.dll"
 ```
 
 > Error solved:
+
+#### PHP Xdebug Time-out Connecting to Debugging Client Error Solution Video Link:
+
+https://youtu.be/cotcbEZkv7k
+
 > [Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).]
 
 আরও একটি Error এর সমাধান এ্যাড করে দিলাম রিসোর্স ফাইলে। আপনারা কাইন্ডলি আমার দেয়া এই রিসোর্স থেকে php(.ini) ফাইলের জন্য যেই কোড দিয়েছি, সেটা কপি করে আনার পর, (.dll) ফাইলের পাথ ভিডিওতে যেভাবে দেখানো হয়েছে , সেই ভাবেই পাথ কপি করে এনে php(.ini) ফাইলে পেস্ট করবেন।
